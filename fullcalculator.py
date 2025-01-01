@@ -29,6 +29,13 @@ def face():
 	delay(1)
 	print(" ⠛⠀⠈⠻⠷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⠟")
 
+print("[1] Add           [2] Subtract")
+print(" ")
+print("[3] Multiply      [4] Divide")
+print(" ")
+print("[5] Square root")
+print(" ")
+
 question = input("What do you wanna do?: ").lower().strip()
 
 while question != "add" and question != "subtract" and question != "multiply" and question != "divide" and question != "square root" and question != "purge the heritics":
