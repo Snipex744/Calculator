@@ -3,10 +3,5 @@ Very VERY basic calculator that i want to keep working on. This is my first ever
 
 You have five options right now; add, subtract, multiply, divide, and square root. One you choose an option, you'll be locked into that mode until running again.
 
-Stuff to add:
--Protection against special characters.
--Actual interface(Much later.)
-
-
-
-Also try 0 and 0.
+To do list:
+- Add an actual interface once I learn how.
